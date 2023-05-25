@@ -1,4 +1,4 @@
-<h1 align="center">genshin remove banner</h1>
+<h1 align="center">Genshin Impact Kebabi Banner Remover</h1>
 
 simple app to remove the banner in kebabi for genshin impact
 
@@ -14,5 +14,5 @@ also cheack that mhyprot handler is closed
 
 <h1 align="center">Contributing</h1>
 <a href="https://github.com/YungSamzy">YungSamzy</a> readme
-
+<a href="https://github.com/ELJoOker2004/genshin-remove-banner">Original Source Code</a> By ELJoOker2004
 <a href="https://github.com/soevielofficial"> soevielofficial</a> added icon
